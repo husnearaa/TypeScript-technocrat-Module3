@@ -1,5 +1,5 @@
 {
-    // instanceof guard
+    /
 
 
 
@@ -36,7 +36,7 @@
     }
   
     // smart way tge handle korar jnne chaile amra function bebohar krte pari
-    
+
     const isDog = (animal: Animal): animal is Dog => {
       return animal instanceof Dog;
     };
