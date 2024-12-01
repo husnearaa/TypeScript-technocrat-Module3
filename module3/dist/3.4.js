@@ -15,7 +15,7 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 {
-    /;
+    //
     var Animal = /** @class */ (function () {
         function Animal(name, species) {
             this.name = name;
